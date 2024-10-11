@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1a80a904df1c54c74bcd4e8662335794
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - M23_HYDRANT SPECIAL
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2e9b9683a1b3a41969820e8422448955, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
